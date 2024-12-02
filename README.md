@@ -3,7 +3,7 @@
 
 - 🎥 I'm currently working on developing my own **house security system powered by AI models.**
 
-- 🌱 I’m currently expanding my knowledge in **AI/ML, DevOps, Networking, Hardware, and IoT.**
+- 🌱 I’m currently expanding my knowledge in **Docker, AI/ML, DevOps, Networking, Hardware, and IoT.**
 
 - 🤝 I’m collaborating with my Hacking Health team on an innovative healthcare project like [Simon's light arms(2023)](https://www.linkedin.com/posts/hacking-health-besancon_sla-maladiedecharcot-ergothaezrapeute-activity-7137532381564956672-dcBl?utm_source=share&utm_medium=member_desktop) or [Measuring the satisfaction of minor patients in child psychiatry(2024)](https://www.linkedin.com/posts/ethan-vuillemin-087165203_innovation-innovationsantaez-santaez-activity-7254896285126721536-3_K6?utm_source=share&utm_medium=member_desktop)
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hello there ! Welcome to my github page </h1>
 <h3 align="center">A passionate backend developer, specialized in MlOps & Artificial Inteligence</h3>
 
-- 🔭 I'm currently working on developing my own **house security system powered by AI models.**
+- 🎥 I'm currently working on developing my own **house security system powered by AI models.**
 
 - 🌱 I’m currently expanding my knowledge in **AI/ML, DevOps, Networking, Hardware, and IoT.**
 

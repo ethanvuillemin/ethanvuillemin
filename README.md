@@ -1,11 +1,13 @@
-<h1 align="center">Hello There ! Welcome to my github profile !</h1>
-<h3 align="center">A passionate backend developer, specialized in MlOps & Artificial Inteligence</h3>
+<h1 align="center">Hi! Welcome to my github profile !</h1>
+<h3 align="center">A passionate backend developer, specialized in DevOps, MlOps & Artificial Inteligence</h3>
 
-- 🎥 I'm currently working on developing my own **house security system powered by AI models.**
+- 🎥 I'm currently working on developing my own **house security system powered by AI models**
 
 - 🌱 I’m currently expanding my knowledge in **AI/ML, DevOps, Networking, Hardware, and IoT.**
 
-- 🤝 I’m collaborating with my Hacking Health team on an innovative healthcare project like [Simon's light arms(2023)](https://www.linkedin.com/posts/hacking-health-besancon_sla-maladiedecharcot-ergothaezrapeute-activity-7137532381564956672-dcBl?utm_source=share&utm_medium=member_desktop) or [Measuring the satisfaction of minor patients in child psychiatry(2024)](https://www.linkedin.com/posts/ethan-vuillemin-087165203_innovation-innovationsantaez-santaez-activity-7254896285126721536-3_K6?utm_source=share&utm_medium=member_desktop)
+- 🤝 I’m collaborating with my Hacking Health teams 2023 on an innovative healthcare project like [Simon's light arms(2023)](https://www.linkedin.com/posts/hacking-health-besancon_sla-maladiedecharcot-ergothaezrapeute-activity-7137532381564956672-dcBl?utm_source=share&utm_medium=member_desktop)
+- 🤝 I’m collaborating with my Hacking Health teams 2024 on [Measuring the satisfaction of minor patients in child psychiatry(2024)](https://www.linkedin.com/posts/ethan-vuillemin-087165203_innovation-innovationsantaez-santaez-activity-7254896285126721536-3_K6?utm_source=share&utm_medium=member_desktop)
+- 🤝 I’m collaborating with my Datathon IA4Care teams 2025 on [Reflective Digital Intelligence Learning Technology for Severity Level Identification)](https://www.datathon.fr/Projects)
 
 - 💬 Ask me about **Python, JavaScript, FastAPI, React.js, TensorFlow, PyTorch, MLflow, Docker, Jenkins, Git, Azure, AWS and Network fundamentals**
 

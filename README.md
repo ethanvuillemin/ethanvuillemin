@@ -1,4 +1,4 @@
-<h1 align="center">Hi! Welcome to my github profile !</h1>
+<h1 align="center">Hi im Ethan! Welcome to my github profile !</h1>
 <h3 align="center">A passionate backend developer, specialized in DevOps, MlOps & Artificial Inteligence</h3>
 
 - 🎥 I'm currently working on developing my own **house security system powered by AI models**

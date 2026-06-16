@@ -22,8 +22,6 @@
 </div>
 
 <!-- ======================= SECTION : SNAKE ======================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00f0ff,100:7b2ff7&text=Watch%20the%20snake&fontColor=ffffff&fontSize=36&fontAlignY=42&animation=fadeIn" alt="Snake" />
-
 <!-- Généré par le workflow .github/workflows/snake.yml -->
 <div align="center">
   <img width="100%" src="https://raw.githubusercontent.com/ethanvuillemin/ethanvuillemin/output/snake-dark.svg" alt="snake eating my contributions" />

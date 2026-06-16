@@ -21,6 +21,15 @@
 
 </div>
 
+<!-- ======================= SECTION : SNAKE ======================= -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00f0ff,100:7b2ff7&text=Watch%20the%20snake&fontColor=ffffff&fontSize=36&fontAlignY=42&animation=fadeIn" alt="Snake" />
+
+<!-- Généré par le workflow .github/workflows/snake.yml -->
+<div align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/ethanvuillemin/ethanvuillemin/output/snake-dark.svg" alt="snake eating my contributions" />
+</div>
+
+
 <!-- ======================= SECTION : WHOAMI ======================= -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7b2ff7,100:00f0ff&text=whoami&fontColor=ffffff&fontSize=38&fontAlignY=42&animation=fadeIn" alt="whoami" />
 
@@ -110,14 +119,6 @@ class Ethan:
   <img width="100%" src="https://raw.githubusercontent.com/ethanvuillemin/ethanvuillemin/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </div>
 
-
-<!-- ======================= SECTION : SNAKE ======================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00f0ff,100:7b2ff7&text=Watch%20the%20snake&fontColor=ffffff&fontSize=36&fontAlignY=42&animation=fadeIn" alt="Snake" />
-
-<!-- Généré par le workflow .github/workflows/snake.yml -->
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/ethanvuillemin/ethanvuillemin/output/snake-dark.svg" alt="snake eating my contributions" />
-</div>
 
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00f0ff,50:7b2ff7,100:0b1021" alt="footer" />

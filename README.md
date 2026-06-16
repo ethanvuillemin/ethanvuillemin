@@ -110,28 +110,6 @@ class Ethan:
   <img width="100%" src="https://raw.githubusercontent.com/ethanvuillemin/ethanvuillemin/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </div>
 
-<!-- ======================= SECTION : STATS ======================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00f0ff,100:7b2ff7&text=GitHub%20Stats&fontColor=ffffff&fontSize=38&fontAlignY=42&animation=fadeIn" alt="GitHub Stats" />
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ethanvuillemin&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight&title_color=00f0ff&icon_color=7b2ff7" alt="stats" />
-<img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=ethanvuillemin&hide_border=true&theme=tokyonight&ring=00f0ff&fire=7b2ff7&currStreakLabel=00f0ff" alt="streak" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ethanvuillemin&layout=compact&hide_border=true&langs_count=8&theme=tokyonight&title_color=00f0ff" alt="top langs" />
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ethanvuillemin&bg_color=0d1117&color=00f0ff&line=7b2ff7&point=ffffff&hide_border=true&area=true" alt="activity graph" />
-
-</div>
-
-<!-- ======================= SECTION : TROPHIES ======================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7b2ff7,100:00f0ff&text=Trophies&fontColor=ffffff&fontSize=38&fontAlignY=42&animation=fadeIn" alt="Trophies" />
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ethanvuillemin&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
 
 <!-- ======================= SECTION : SNAKE ======================= -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:00f0ff,100:7b2ff7&text=Watch%20the%20snake&fontColor=ffffff&fontSize=36&fontAlignY=42&animation=fadeIn" alt="Snake" />
@@ -141,11 +119,5 @@ class Ethan:
   <img width="100%" src="https://raw.githubusercontent.com/ethanvuillemin/ethanvuillemin/output/snake-dark.svg" alt="snake eating my contributions" />
 </div>
 
-<!-- ======================= QUOTE + FOOTER ======================= -->
-<div align="center">
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00f0ff,50:7b2ff7,100:0b1021" alt="footer" />

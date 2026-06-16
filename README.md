@@ -109,14 +109,3 @@ class Ethan:
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Zapier](https://img.shields.io/badge/Zapier-FF4A00?style=for-the-badge&logo=zapier&logoColor=white)
 
-<!-- ======================= SECTION : 3D ======================= -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=110&color=0:7b2ff7,100:00f0ff&text=Contributions%20in%203D&fontColor=ffffff&fontSize=34&fontAlignY=42&animation=fadeIn" alt="Contributions in 3D" />
-
-<!-- Généré par le workflow .github/workflows/3d-contrib.yml — variante rainbow = animée -->
-<div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/ethanvuillemin/ethanvuillemin/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
-</div>
-
-
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:00f0ff,50:7b2ff7,100:0b1021" alt="footer" />

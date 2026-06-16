@@ -6,7 +6,7 @@
 <!-- ======================= TYPING + STATUT DÉFILANT ======================= -->
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=720&lines=Backend+developer+%E2%9A%99%EF%B8%8F;DevOps+%26+MLOps+engineer+%F0%9F%9A%80;AI+%2F+ML+enthusiast+%F0%9F%A4%96;Building+an+AI-powered+home+security+system+%F0%9F%8E%A5;IoT+%E2%80%A2+Hardware+%E2%80%A2+Edge+%E2%9A%A1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=720&lines=AI+engineer+%F0%9F%A4%96;Backend+developer+%E2%9A%99%EF%B8%8F;DevOps+%26+MLOps+engineer+%F0%9F%9A%80;Building+an+AI-powered+home+security+system+%F0%9F%8E%A5;IoT+%E2%80%A2+Hardware+%E2%80%A2+Edge+%E2%9A%A1)](https://git.io/typing-svg)
 
 <!-- ligne de statut qui se tape en boucle -->
 [![Status](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&duration=2500&pause=700&color=7B2FF7&center=true&vCenter=true&width=560&lines=Available+for+collaborations;Training+my+home-security+model;Compiling+neural+nets...;Powered+by+coffee+%26+CI%2FCD;Listening+to+sensors+at+the+edge)](https://git.io/typing-svg)
